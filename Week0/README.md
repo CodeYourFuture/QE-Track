@@ -6,7 +6,7 @@
 
 ### 1. Preliminaries: Software Testing Foundations
 
-In this preliminary week, you'll do some preparational work in order to get familiar with the terminology that will be thrown at you in the upcoming 8 weeks.
+In this preliminary week, you'll do some preparations work in order to get familiar with the terminology that will be thrown at you in the upcoming 8 weeks.
 
 This should be done BEFORE your module kickoff session on Sunday.
 

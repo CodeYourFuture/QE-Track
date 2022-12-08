@@ -18,7 +18,7 @@ Learn how testing pyramid help defining testing strategy here:
 - [Define Testing Strategy using the Testing Pyramid](https://medium.com/@Colin_But/define-testing-strategy-using-the-testing-pyramid-1dabee37e823)
 
 ### 2. Testing Ideas
-Now that we defined a testing strategy using the pyramid, we need to consolidate our testing ideas for spesific feature and be able to communicate them through a test plan
+Now that we defined a testing strategy using the pyramid, we need to consolidate our testing ideas for specific feature and be able to communicate them through a test plan
 
 Learn how you can do that by reading the following resources:
 
